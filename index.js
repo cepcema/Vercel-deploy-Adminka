@@ -12,7 +12,7 @@ const app = express();
 //     next();
 // });
 
-app.get(`/tickers`, async(req, res, next) => {
+app.get(`/`, async(req, res, next) => {
     const auth = new google.auth.GoogleAuth({
         keyFile: `adminka.json`,
         scopes: `https://www.googleapis.com/auth/spreadsheets`,
