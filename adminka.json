@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adminka-new",
+  "private_key_id": "0b7b36d72d0134f8697e5b8fb66100a347be8deb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC37yRsORjHPnDN\nJ9B9rGnCc4MXBmBFcKWhuCFjAp7rzMVIPWcNZgXq/G+5TohcrRtnquf4WSooVEOP\nEZOFUd/2oMMTRGCoF541htQzWjnSrwdDewKpZY86fpn9uXxavsnte0XWgmNf1xD3\nY0l9XtBT37eW6altIvWP/YjeCmehMEnw02zAu4GwCrAQNudMZ2I7QMtd/2aUMTB7\nYvSBPMqQI1v4bgr/wIdOsNYLAotadiKW1PfZYZKCiR721feVzHqEPDj3C0XU60U/\nmmy1NieTI62RvgHSV3RVCadVkUiIDuZKxttRU4a1wZXqAnAqMLymCGyidjCJ2viv\ndLOhFS09AgMBAAECggEABXnCDNK6URwjwYfA5izezSIhMetHrGmJFMJlhAwM7Rog\neWESk0yJOpCfRtX2q0OgADsPQs5sudygUj8EtEBWuYHZrNYpRnfFhvRnlsvF0ubR\nAYpE7wQN+oDQVsRR1mW9nys/Tf59tNmzMJotEuVisEyFq6FzIMOcqdezXmDS6vJ3\nJIHAdBzzrQeL8Wapey1NGsyVvtnYkqZIaC3RNYrWvM/MFCgVaF3gCj++yCnHmuSh\nRU6hxGaVHOGCLR/EogBjafMWiz4kt5Dvd52z2YPYNEzQZOw273d7CRT8DUKruGr9\nAZknatbrnAIFhvaRYFGm2rLn/UBHO048dGKoJAhAYQKBgQDehrT97Ml06e3Kyq3e\n+PgQfq+Qi1ffJtv++aJ/5vE1hT6G6Cq9rt4tkSDTHdaKtBdpAhNoVEvIF3dRIYDt\nKGusUA/fH8bn1sC3sjFEOw5W3uVI1fT0xb23+zK6kpEESGmiIB4hQ38VTLy84USJ\nnK1Qv521yWPj10AN7LyXogj7SQKBgQDTmknexZcDuPZScvzHhuZLSz0MtZQNudmU\n6DN62pWM8/4KNimkHvxHF3kLd6k2OnsLutI3E6twea8ff0M6ODu/mDloXMDlLqFM\nRCuwQYLIrlYu+FOh43nI360MvvhD1+SWXH/qvE0aB9ZT2mkXYSi6ttE74QpdBd15\ncNOYbb3OVQKBgQCWvzDreDZ9kl+56pXhIE6Edh4fUJZloOCWGa0A8oVjWXGjWLJj\nr4vp2JAhFOybKCdXxsU4/yobUfJNruG1R5WxtMcbw14u/qetifSgIVW0eelf7zmz\nfCXq9ixGgjXlbdzJrPJcXGpCFqshVYXlp5MtybFgTh7yYYaOKFsWafmlqQKBgQCb\nuC5mj5hLuAEludNGboLppAvgX3v+AegaSisgXN2zphcsoqFQUzEqjB6bDstqyeyl\nPC3ZNFN06Uez8S6jGKD3pWmR4LhfsEopWv2frwY08v8ff8XkHAgSiHDMMXl4S9e/\nw4CrWTmQT3YtrUyrVOfpSAKAg2LiBB/xb9N3mEMXJQKBgGQ90ac8I8dSC7C+FMHG\n0X3u7/P4tRIQyFOgjpaSQk5s2zwySr0dma9ubjsjfBjyivMM+iy57KLwI7Ymqngg\nnCHck5nDn9/Tmy6NDfbBeW9K6goVx3e9dJHp4NC2tp3NbrhRfcCXwEeri/yXmZer\nVmr/z5DE7R3TxQIBMEp/sQcV\n-----END PRIVATE KEY-----\n",
+  "client_email": "adminka-new@adminka-new.iam.gserviceaccount.com",
+  "client_id": "100257751001622350884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adminka-new%40adminka-new.iam.gserviceaccount.com"
+}
