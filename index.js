@@ -1,16 +1,16 @@
 const PORT = process.env.PORT || 8000;
 const express = require(`express`);
 const { google } = require(`googleapis`);
-const cors = require(`cors`);
+//const cors = require(`cors`);
 const app = express();
 
-app.use(cors());
+// app.use(cors());
 
-app.all("/", function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "X-Requested-With");
-    next();
-});
+// app.all("/", function(req, res, next) {
+//     res.header("Access-Control-Allow-Origin", "*");
+//     res.header("Access-Control-Allow-Headers", "X-Requested-With");
+//     next();
+// });
 
 app.get(`/tickers`, async(req, res, next) => {
     const auth = new google.auth.GoogleAuth({
@@ -36,7 +36,7 @@ app.get(`/tickers`, async(req, res, next) => {
         range: "Sheet1",
     });
 
-    //res.send(getRows.data.values[1][2]);
+    //  res.send(getRows.data.values[1][2]);
 
     res.send(getRows);
 });
